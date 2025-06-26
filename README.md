@@ -7,6 +7,9 @@
 
 > **Dirtree** is a fast and simple folder structure visualizer written in **Python**. Easily display and export your folder trees with a beautiful ASCII layout and a modern, interactive CLI.
 
+<p align="center"><img alt="Preview" src="src/preview.png" width="500"/></p>
+
+
 ---
 
 ## ⚙️ Features
@@ -82,4 +85,3 @@ dirtree/
 Give a star if this project helped you!
 
 ---
-
