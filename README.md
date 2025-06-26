@@ -72,7 +72,7 @@ dirtree/
 ## 👤 Author
 
 - Profile: [macxzew.github.io](https://macxzew.github.io)
-- Discord: [Shynonime](https://discord.gg/YT7gU4FDkY)
+- Discord: [Shyno](https://discord.gg/YT7gU4FDkY)
 - Github: [Macxzew](https://github.com/Macxzew)
 
 ---
